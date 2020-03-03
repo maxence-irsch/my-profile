@@ -1,0 +1,49 @@
+body{ background-color: rgb(30,30,30);}
+body{ color: #a3f7bf; }
+body{font-size: 16px}
+body{text-align: center;}
+
+#avatar{border-radius: 60% }
+
+#campus{width: 500px}
+#campus{height: 250px}
+
+#hand{width: 300px}
+#hand{height: 170px}
+
+h1 { color: #f5eaea}
+h1 {font-family:'kanit', serif;}
+h1 {font-size: 50px}
+h1 {font-weight: bolder;}
+
+
+h2 { color: #29a19c }
+h2 {font-size: 32px }
+h2 {font-weight: bolder;}
+
+p { font-family:'Merriweather', serif;}
+p{font-size: 17px}
+
+ul {font-size: 38px}
+ul{padding-left: 0px}
+
+li{list-style: none;}
+li{display: inline;}
+li{padding: 8px}
+
+a{text-decoration: none;}
+a{color: rgb(180,180,180);}
+a:hover {color:#a3f7bf ;}
+
+.card-grey{padding:20px;}
+.card-grey{margin: 30px}
+.card-grey{border-radius: 10px}
+.card-grey{box-shadow: 3px 10px 30px rgba(230,230,230,0.1)}
+.card-grey{background: #222831 }
+.card-grey{width: 800px}
+
+#container{margin: 50px auto}
+#container{width: 900px}
+
+@media (max-width: 760px ) {.box-relief {width: 600px}}
+@media (max-width: 500px ) {.box-relief {width: 400px}}
